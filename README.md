@@ -1,5 +1,5 @@
-### Hi folks 👋
+### Hey, I'm Wil 👋
 
-I'm a software engineer with a background in graphic design and a focus on full-stack web development. My current projects explore practical use cases of machine learning built with React, Node, and Tensorflow.js
+A software engineer motivated to help create technology with a positive social impact. My current projects explore practical applications of machine learning using React, Node, and Tensorflow.
 
 Feel free to reach out! Either through [LinkedIn](https://www.linkedin.com/in/wilgerard/) or my email at <williamrgerard@gmail.com>
