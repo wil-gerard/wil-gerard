@@ -1,5 +1,6 @@
 ### Hey folks 👋, I'm Wil:
 
-a JavaScript developer with a background in graphic design. I love developing and designing websites from scratch - and have a deep interest in building machine learning apps with React.
+a JavaScript developer with a background in graphic design. I love connecting and collaborating with others to bring ideas to life with code. Feel free to reach out! 
 
-Feel free to reach out! Either through [LinkedIn](https://www.linkedin.com/in/wilgerard/) or by email at <williamrgerard@gmail.com>
+Visit my [site](https://www.wilgerard.com/) 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/wilgerard/)
