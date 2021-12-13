@@ -1,6 +1,6 @@
 ### Hey folks 👋, I'm Wil:
 
-a JavaScript developer with a background in graphic design. I love connecting and collaborating with others to bring ideas to life with code. Feel free to reach out! 
+a software engineer and full-stack JavaScript developer with a background in graphic design and photography 
 
 Learn more about what I'm up to at [wilgerard.com](https://www.wilgerard.com/) 
 
