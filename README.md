@@ -1,6 +1,6 @@
 ### Hey folks 👋, I'm Wil:
 
-a full-stack engineer with a background in graphic design. I'm currently building a social networking app that helps early-career engineers connect. I appreciate opportunities to help altruistic ideas come to life - Feel free to reach out!
+a creative, detail-oriented, and versatile software developer that offers a versatile skill-set, including full-stack web development, UI/UX, graphic design, and photography, with a focus on frontend development with React.js. I welcome learning opportunities and am enthusiastic about collaborative problem-solving, open-source development, and creating easy-to-use digital experiences.
  
 Learn more about what I'm up to at [wilgerard.com](https://www.wilgerard.com/) 
 
