@@ -1,3 +1,3 @@
-### Hey folks 👋, I'm Wil
+### Hey folks 👋, I'm Wil,
 
-I'm a software engineer with a versatile skill set including full-stack web development, UI/UX design, and photography. I specialize in frontend development using React.js and am always open to learning new technologies and opportunities.
+a software engineer with a versatile skill set including full-stack web development and UI/UX design. I specialize in the development of modern, responsive web applications using React.js on the frontend and Node.js, Express.js, and MongoDB on the backend. I'm a lifelong learner and appreciate opportunities to expand my knowledge.
