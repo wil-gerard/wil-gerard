@@ -1,2 +1,1 @@
-### Hey folks 👋,
-I’m a software engineer specializing in full-stack web development and UI/UX design, with a strong focus on the MERN stack. With my background in graphic design, I enjoy collaborating cross-functionally to turn ideas into clean, accessible, and user-friendly interfaces.
+Software engineer and open-source contributor with a focus on modern full-stack development and UI engineering. Skilled in JavaScript/TypeScript, React, Node.js, and design-driven front-end architecture. I blend engineering fundamentals with a strong foundation in visual design to build accessible, scalable, and user-centered web applications.
