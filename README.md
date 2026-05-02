@@ -1,1 +1,1 @@
-Software engineer and open-source contributor with a focus on modern full-stack development and UI engineering. Skilled in JavaScript/TypeScript, React, Node.js, and design-driven front-end architecture. I blend engineering fundamentals with a strong foundation in visual design to build accessible, scalable, and user-centered web applications.
+Javascript focused software engineer with a background in graphic design. Usually somewhere near cats, coffee, or a climbing wall.
