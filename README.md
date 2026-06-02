@@ -1,1 +1,1 @@
-Javascript focused software engineer with a background in graphic design. Usually somewhere near cats, coffee, or a climbing wall.
+Full stack JavaScript software engineer stoked about creating and implementing clean UX. Usually somewhere near cats, TTRPGs, or a climbing wall.
