@@ -1,7 +1,8 @@
 # Wil Gerard
 
-### Full stack JavaScript software engineer stoked about creating and implementing clean UX
+### Developer advocate, building the docs, tools and content that make APIs easier to use
 
-##### Web Developer | UX Designer | Photographer | Rock Climber | Music Maker | Cat Dad | TTRPG/Board Game Fiend
+Fullstack background working with skills, MCP, and contributing to the ecosystem. Outside of work I'm into photography, rock climbing, tabletop games and a cat who supervises all three.
+
 
 
